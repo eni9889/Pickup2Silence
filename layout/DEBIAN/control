@@ -1,0 +1,9 @@
+Package: com.yourcompany.click2dial
+Name: click2dial
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 
+Maintainer: egjoka
+Author: egjoka
+Section: Tweaks
